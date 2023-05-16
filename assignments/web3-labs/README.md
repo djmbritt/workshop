@@ -1,6 +1,6 @@
-# Web3 Labs
+# Polygon Guild Day
 
-Welcome to the Web3 Labs assignment!
+Welcome to the Polygon Guild Day workshop!
 In this workshop you'll learn how to automate the deployment of Solidity contracts
 on the Polygon test network.
 
